@@ -31,4 +31,4 @@ jobs:
         
     - name: Test
       run: |
-        test.py
+        python test.py
